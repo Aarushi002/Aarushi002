@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators to participate in events and hacks!
-- 🥅 2021 Goals: Really work on backend web development and brush up front end development skills, master a language.
+- 🥅 2023 Goals: Really work on backend web development and brush up front end development skills, master a language.
 - ⚡ Fun fact: I'm your go to person for binge watching shows!!
 
 ## Spotify Playing 🎧
