@@ -4,11 +4,21 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=780&height=55&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Aarushi+Krishna;Software+Developer+%E2%80%A2+Startup+Engineer;We+Build+%E2%80%A2+Innovate+%E2%80%A2+Deliver+%E2%80%94+End+to+End+Tech;MERN+%7C+TypeScript+%7C+Next.js+%7C+Java+%7C+Cloud-Ready+Apps" alt="Typing SVG" />
 
-[![Profile views](https://komarev.com/ghpvc/?username=Aarushi002&label=Profile%20views&color=0ea5e9&style=flat)](https://github.com/Aarushi002)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushi-krishna/)
-[![Gmail](https://img.shields.io/badge/Email-Reach%20out-EA4335?logo=gmail&logoColor=white)](mailto:aarushikrishna5@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/barefeet_on_linoleum/)
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?logo=discord&logoColor=white)](https://discord.com/users/aarushikrishna02)
+<p align="center">
+  <a href="https://github.com/Aarushi002" title="GitHub"><img width="42" height="42" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aarushi-krishna/" title="LinkedIn"><img width="42" height="42" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:aarushikrishna5@gmail.com" title="Email"><img width="42" height="42" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/barefeet_on_linoleum/" title="Instagram"><img width="42" height="42" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" /></a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/aarushikrishna02" title="Discord"><img width="42" height="42" src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aarushi002"><img src="https://komarev.com/ghpvc/?username=Aarushi002&label=Profile%20views&color=0ea5e9&style=flat" alt="Profile views" /></a>
+</p>
 
 </div>
 
