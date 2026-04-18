@@ -4,19 +4,40 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=780&height=55&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Aarushi+Krishna;Software+Developer+%E2%80%A2+Startup+Engineer;We+Build+%E2%80%A2+Innovate+%E2%80%A2+Deliver+%E2%80%94+End+to+End+Tech;MERN+%7C+TypeScript+%7C+Next.js+%7C+Java+%7C+Cloud-Ready+Apps" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aarushi-krishna/" title="LinkedIn"><img height="34" alt="LinkedIn" src="https://img.shields.io/badge/--0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.instagram.com/barefeet_on_linoleum/" title="Instagram"><img height="34" alt="Instagram" src="https://img.shields.io/badge/--E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:aarushikrishna5@gmail.com" title="Email"><img height="34" alt="Gmail" src="https://img.shields.io/badge/--EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white"/></a>
-  &nbsp;
-  <a href="https://discord.com/users/aarushikrishna02" title="Discord"><img height="34" alt="Discord" src="https://img.shields.io/badge/--5865F2?style=flat-square&amp;logo=discord&amp;logoColor=white"/></a>
-  &nbsp;
-  <a href="https://github.com/Aarushi002" title="GitHub"><img height="34" alt="GitHub" src="https://img.shields.io/badge/--181717?style=flat-square&amp;logo=github&amp;logoColor=white"/></a>
-  &nbsp;
-  <a href="https://github.com/Aarushi002" title="Profile views"><img height="34" alt="Profile views" src="https://komarev.com/ghpvc/?username=Aarushi002&amp;label=&amp;color=0ea5e9&amp;style=flat-square"/></a>
-</p>
+<table align="center" cellpadding="6" cellspacing="0">
+  <tbody>
+    <tr>
+      <td align="center" bgcolor="#0A66C2">
+        <a href="https://www.linkedin.com/in/aarushi-krishna/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/ffffff" width="32" height="32" alt="LinkedIn"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" bgcolor="#E4405F">
+        <a href="https://www.instagram.com/barefeet_on_linoleum/" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/ffffff" width="32" height="32" alt="Instagram"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" bgcolor="#EA4335">
+        <a href="mailto:aarushikrishna5@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/ffffff" width="32" height="32" alt="Gmail"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" bgcolor="#5865F2">
+        <a href="https://discord.com/users/aarushikrishna02" title="Discord"><img src="https://cdn.simpleicons.org/discord/ffffff" width="32" height="32" alt="Discord"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" bgcolor="#181717">
+        <a href="https://github.com/Aarushi002" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff" width="32" height="32" alt="GitHub"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Aarushi002" title="Profile views"><img height="34" alt="Profile views" src="https://komarev.com/ghpvc/?username=Aarushi002&amp;label=&amp;color=0ea5e9&amp;style=flat-square"/></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
