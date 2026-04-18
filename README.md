@@ -1,48 +1,82 @@
-## Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Aarushi! 
-<a href="https://www.linkedin.com/in/aarushi-krishna-262b95218/" style="display: inline-block; margin-right: 30px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="Aarushi's LinkedIn" width="32px" />
-</a>
+<div align="center">
 
-<a href="https://www.instagram.com/barefeet_on_linoleum/" style="display: inline-block; margin-right: 30px;">
-  <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="Aarushi's Instagram" width="35px" />
-</a>
+<img src="./assets/tech-banner.svg" alt="Aarushi Krishna — animated tech banner" width="100%"/>
 
-<a href="mailto:aarushikrishna5@gmail.com" style="display: inline-block; margin-right: 30px;">
-  <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-contact-machine-learning-phd-student-reasoning-and-25.png" alt="Aarushi's Gmail" width="40px" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=780&height=55&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Aarushi+Krishna;Software+Developer+%E2%80%A2+Startup+Engineer;We+Build+%E2%80%A2+Innovate+%E2%80%A2+Deliver+%E2%80%94+End+to+End+Tech;MERN+%7C+TypeScript+%7C+Next.js+%7C+Java+%7C+Cloud-Ready+Apps" alt="Typing SVG" />
 
-<a href="https://discord.com/users/aarushikrishna02" style="display: inline-block;">
-  <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Aarushi's Discord" width="40px" />
-</a>
+[![Profile views](https://komarev.com/ghpvc/?username=Aarushi002&label=Profile%20views&color=0ea5e9&style=flat)](https://github.com/Aarushi002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushi-krishna/)
+[![Gmail](https://img.shields.io/badge/Email-Reach%20out-EA4335?logo=gmail&logoColor=white)](mailto:aarushikrishna5@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/barefeet_on_linoleum/)
+[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?logo=discord&logoColor=white)](https://discord.com/users/aarushikrishna02)
 
-
-
-## 👩‍💻 About Me
-
-I'm a **web developer and tech enthusiast** from Lucknow, India. Always eager to learn and grow, I'm passionate about building scalable applications and solving problems with technology.
-
-- 💻 I have experience working with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and **Java**.
-- 🌱 **Always learning** new technologies and improving my skills.
-- 👯 Looking to **collaborate** on exciting projects, open-source contributions, and hackathons!
-- ⚡ **Fun Fact**: I enjoy breaking down complex problems into simple solutions—coding is my favorite way to be creative!
+</div>
 
 ---
 
+### About me
 
+I am **Aarushi Krishna**, a **software developer** who loves turning messy problems into clean, reliable products. I currently ship features at a **fast-moving startup**, and I also run my **own proprietorship**—a tech practice where we **build, innovate, and deliver** full-stack solutions for clients who need everything from MVPs to production systems.
 
- <br>
+- **Education:** B.Tech in **Computer Science & Engineering** from **Dr. A.P.J. Abdul Kalam Technical University** (**AKTU**), Lucknow, Uttar Pradesh—formerly known as **Uttar Pradesh Technical University (UPTU)**.
+- **What I enjoy:** product-minded engineering, crisp UX, scalable APIs, and shipping with intention.
+- **Outside code:** collaborating on ideas, learning new stacks, and refining how software feels in the real world.
 
+---
 
-## 🛠️ Languages & Tools
+### Tech stack
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<p align="center">
+  <a href="https://skillicons.dev" title="Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,py,c,mongodb,express,react,nodejs,nextjs&perline=7" alt="HTML, CSS, JavaScript, TypeScript, Java, Python, C, MongoDB, Express, React, Node.js, Next.js" />
+  </a>
+</p>
 
-<br>
+<details>
+<summary><b>Stack notes (hover-friendly)</b></summary>
+
+| Layer        | Tools |
+|-------------|-------|
+| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js |
+| **Backend**  | Node.js, Express.js, Java |
+| **Data**     | MongoDB |
+| **Languages**| Python, C |
+
+</details>
+
+---
+
+### GitHub pulse
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aarushi002&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarushi002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarushi002&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+### Currently
+
+- Building and iterating in a **startup** environment (high ownership, fast feedback loops).
+- Growing my **proprietorship**: consulting, custom builds, and end-to-end delivery across the stack.
+- Always open to **meaningful collaborations**, open source, and hackathons.
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:a78bfa&height=120&section=footer" width="100%" alt="Footer wave"/>
+
+</div>
+
+<!--
+Optional: “Snake” contribution animation (popular on GitHub profiles)
+1) Add workflow from: https://github.com/Platane/snk
+2) Then embed: ![snake](https://raw.githubusercontent.com/Aarushi002/Aarushi002/output/github-contribution-grid-snake.svg)
+-->
